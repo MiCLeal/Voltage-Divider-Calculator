@@ -1,6 +1,6 @@
 ﻿namespace voltage.divisor.calculator
 {
-    partial class Form1
+    partial class Calculator
     {
         /// <summary>
         /// Variável de designer necessária.
